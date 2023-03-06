@@ -25,7 +25,7 @@
 .logo_place_header {
   top: 30px;
   left: 64px;
-  background-image: url('../sprint-1__startkit/images/logo_place_header.svg');
+  background-image: url(./images/logo_place_header.svg);
 }
 
 .header__title {
@@ -62,7 +62,7 @@ text-decoration: none;
   min-width: 765px;
   height: 608px;
   object-fit: cover;
-  background-image: url(../sprint-1__startkit/images/two_again.png);
+  background-image: url(./images/header-image.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right;
@@ -247,7 +247,7 @@ text-decoration: none;
   position: absolute;
   top: 0;
   right: -210px;
-  background-image: url(../sprint-1__startkit/images/kaufman-triangle.svg);
+  background-image: url(./images/kaufman-triangle.svg);
   background-size: cover;
 }
 
@@ -276,7 +276,7 @@ text-decoration: none;
 }
 
 .logo_place_footer {
-  background-image: url(../sprint-1__startkit/images/logo_place_footer.svg);
+  background-image: url(./images/logo_place_footer.svg);
   position: absolute;
   top: 0;
 }
