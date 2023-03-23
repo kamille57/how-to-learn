@@ -1,4 +1,4 @@
-#Self-education project  
+# Self-education project  
 Let's talk about a KEY to your success in life.  
 Are you lucky to be a well-organized person?  
 Which benefits could you gain from being self-disciplined?
